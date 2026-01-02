@@ -1,0 +1,5 @@
+libraries to install:
+pip install pipwin
+pipwin install pyaudio
+pip install SpeechRecognition pyaudio
+
